@@ -3,10 +3,15 @@
   "teams": 20,
   "fixtures": 380,
   "official_matchday_pages": 38,
+  "status_counts": {
+    "finished": 84,
+    "scheduled": 295,
+    "abandoned": 1
+  },
   "finished_results": 84,
   "officially_abandoned_no_result": 1,
   "scheduled_or_not_started": 295,
-  "standings_computation": "3 points for win, 1 for draw; official table comparison fields: played, points, W-D-L, GF, GA, GD and position. Current table contains no unresolved points/GD/GF tie requiring head-to-head sorting.",
+  "standings_computation": "3 points for win, 1 for draw; compare played, points, W-D-L, GF, GA, GD and position against LALIGA. Exact P/GD/GF ties are checked within the official position group, which may use head-to-head rules.",
   "official_table_comparison": {
     "clubs_compared": 20,
     "all_stats_and_positions_match": true,
@@ -77,7 +82,7 @@
         }
       }
     ],
-    "explanation": "ESPN standings snapshot retained the pre-match row for Osasuna and Racing Santander (8 played each); its own separate Osasuna–Racing match page confirms the 2–0 final. The live dashboard uses the post-match table calculated from official LALIGA scores and checked against the official table."
+    "explanation": "Differences reflect the captured ESPN standings snapshot; use its match page for any result the table has not incorporated. For this cutoff, ESPN showed Osasuna and Racing at eight played each, while its match page confirmed Osasuna 2–0 Racing. The dashboard uses the post-match table calculated from official LALIGA scores and checked against LALIGA."
   },
   "special_fixtures": [
     {

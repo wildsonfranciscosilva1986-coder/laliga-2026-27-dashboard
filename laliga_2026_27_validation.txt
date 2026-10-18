@@ -1,8 +1,8 @@
 LaLiga EA SPORTS 2026/27 validation — cutoff 2026-10-18 10:54 America/Sao_Paulo
 Fixture coverage: 380/380, 38 matchdays x 10 official LALIGA fixtures; 20 unique clubs; 380 unique official match IDs.
 Statuses: 84 final scores, 1 officially abandoned fixture (score excluded), 295 not started.
-Computed standings compared with official LALIGA standings: 20/20 teams match in played, W-D-L, points, GF, GA, GD, and position.
+Computed standings compared with official LALIGA standings: all 20 teams match in played, W-D-L, points, GF, GA, GD and position, allowing official head-to-head order inside exact P/GD/GF ties.
 Independent ESPN table snapshot: 18/20 team-stat rows match; differences: CA Osasuna (played, won, goals_for, points, goal_difference); R. Racing Club (played, lost, goals_against, goal_difference)
-ESPN difference interpretation: its standings snapshot has Osasuna and Racing at eight played (pre-match), while its match page confirms Osasuna 2–0 Racing final; the official table and recomputation include that result.
+ESPN differences are recorded per club in laliga_2026_27_validation.json; the independent table can lag completed matches, so check its match report and the official LALIGA table before treating any difference as a score error.
 Abandoned: round 8, Rayo Vallecano–Athletic Club; no result included.
 No unverified score is used. Matches with kickoff unset are shown as time TBC, not given an invented kickoff time.
