@@ -1,0 +1,283 @@
+{
+  "source": "https://www.laliga.com/laliga-easports/clasificacion",
+  "zones": [
+    {
+      "competition": "Champions League",
+      "color": "#08237f"
+    },
+    {
+      "competition": "Europa League",
+      "color": "#ff6900"
+    },
+    {
+      "competition": "Conference League",
+      "color": "#00aa20"
+    },
+    {
+      "competition": "Descenso",
+      "color": "#00d4d6"
+    }
+  ],
+  "teams": [
+    {
+      "position": 1,
+      "team": "FC Barcelona",
+      "played": 9,
+      "won": 9,
+      "drawn": 0,
+      "lost": 0,
+      "goals_for": 39,
+      "goals_against": 9,
+      "goal_difference": "+30",
+      "points": 27,
+      "competition_zone": "Champions League"
+    },
+    {
+      "position": 2,
+      "team": "Atlético de Madrid",
+      "played": 9,
+      "won": 7,
+      "drawn": 1,
+      "lost": 1,
+      "goals_for": 19,
+      "goals_against": 8,
+      "goal_difference": "+11",
+      "points": 22,
+      "competition_zone": "Champions League"
+    },
+    {
+      "position": 3,
+      "team": "Real Betis",
+      "played": 9,
+      "won": 6,
+      "drawn": 1,
+      "lost": 2,
+      "goals_for": 16,
+      "goals_against": 14,
+      "goal_difference": "+2",
+      "points": 19,
+      "competition_zone": "Champions League"
+    },
+    {
+      "position": 4,
+      "team": "Real Madrid",
+      "played": 8,
+      "won": 6,
+      "drawn": 0,
+      "lost": 2,
+      "goals_for": 19,
+      "goals_against": 8,
+      "goal_difference": "+11",
+      "points": 18,
+      "competition_zone": "Champions League"
+    },
+    {
+      "position": 5,
+      "team": "Sevilla FC",
+      "played": 8,
+      "won": 4,
+      "drawn": 2,
+      "lost": 2,
+      "goals_for": 13,
+      "goals_against": 12,
+      "goal_difference": "+1",
+      "points": 14,
+      "competition_zone": "Champions League"
+    },
+    {
+      "position": 6,
+      "team": "Real Sociedad",
+      "played": 8,
+      "won": 4,
+      "drawn": 1,
+      "lost": 3,
+      "goals_for": 12,
+      "goals_against": 15,
+      "goal_difference": "-3",
+      "points": 13,
+      "competition_zone": "Europa League"
+    },
+    {
+      "position": 7,
+      "team": "Deportivo Alavés",
+      "played": 8,
+      "won": 3,
+      "drawn": 2,
+      "lost": 3,
+      "goals_for": 12,
+      "goals_against": 8,
+      "goal_difference": "+4",
+      "points": 11,
+      "competition_zone": "Conference League"
+    },
+    {
+      "position": 8,
+      "team": "RC Deportivo",
+      "played": 9,
+      "won": 2,
+      "drawn": 5,
+      "lost": 2,
+      "goals_for": 13,
+      "goals_against": 12,
+      "goal_difference": "+1",
+      "points": 11,
+      "competition_zone": ""
+    },
+    {
+      "position": 9,
+      "team": "CA Osasuna",
+      "played": 9,
+      "won": 3,
+      "drawn": 2,
+      "lost": 4,
+      "goals_for": 10,
+      "goals_against": 18,
+      "goal_difference": "-8",
+      "points": 11,
+      "competition_zone": ""
+    },
+    {
+      "position": 10,
+      "team": "Athletic Club",
+      "played": 7,
+      "won": 2,
+      "drawn": 3,
+      "lost": 2,
+      "goals_for": 7,
+      "goals_against": 6,
+      "goal_difference": "+1",
+      "points": 9,
+      "competition_zone": ""
+    },
+    {
+      "position": 11,
+      "team": "Villarreal CF",
+      "played": 9,
+      "won": 2,
+      "drawn": 3,
+      "lost": 4,
+      "goals_for": 13,
+      "goals_against": 13,
+      "goal_difference": "0",
+      "points": 9,
+      "competition_zone": ""
+    },
+    {
+      "position": 12,
+      "team": "Celta",
+      "played": 8,
+      "won": 1,
+      "drawn": 5,
+      "lost": 2,
+      "goals_for": 8,
+      "goals_against": 6,
+      "goal_difference": "+2",
+      "points": 8,
+      "competition_zone": ""
+    },
+    {
+      "position": 13,
+      "team": "RCD Espanyol de Barcelona",
+      "played": 9,
+      "won": 2,
+      "drawn": 2,
+      "lost": 5,
+      "goals_for": 11,
+      "goals_against": 12,
+      "goal_difference": "-1",
+      "points": 8,
+      "competition_zone": ""
+    },
+    {
+      "position": 14,
+      "team": "Rayo Vallecano",
+      "played": 7,
+      "won": 2,
+      "drawn": 2,
+      "lost": 3,
+      "goals_for": 11,
+      "goals_against": 16,
+      "goal_difference": "-5",
+      "points": 8,
+      "competition_zone": ""
+    },
+    {
+      "position": 15,
+      "team": "Getafe CF",
+      "played": 8,
+      "won": 2,
+      "drawn": 2,
+      "lost": 4,
+      "goals_for": 4,
+      "goals_against": 10,
+      "goal_difference": "-6",
+      "points": 8,
+      "competition_zone": ""
+    },
+    {
+      "position": 16,
+      "team": "R. Racing Club",
+      "played": 9,
+      "won": 2,
+      "drawn": 2,
+      "lost": 5,
+      "goals_for": 13,
+      "goals_against": 25,
+      "goal_difference": "-12",
+      "points": 8,
+      "competition_zone": ""
+    },
+    {
+      "position": 17,
+      "team": "Levante UD",
+      "played": 8,
+      "won": 1,
+      "drawn": 4,
+      "lost": 3,
+      "goals_for": 12,
+      "goals_against": 16,
+      "goal_difference": "-4",
+      "points": 7,
+      "competition_zone": ""
+    },
+    {
+      "position": 18,
+      "team": "Elche CF",
+      "played": 9,
+      "won": 1,
+      "drawn": 4,
+      "lost": 4,
+      "goals_for": 11,
+      "goals_against": 17,
+      "goal_difference": "-6",
+      "points": 7,
+      "competition_zone": "Descenso"
+    },
+    {
+      "position": 19,
+      "team": "Valencia CF",
+      "played": 9,
+      "won": 1,
+      "drawn": 3,
+      "lost": 5,
+      "goals_for": 6,
+      "goals_against": 15,
+      "goal_difference": "-9",
+      "points": 6,
+      "competition_zone": "Descenso"
+    },
+    {
+      "position": 20,
+      "team": "Málaga CF",
+      "played": 8,
+      "won": 0,
+      "drawn": 4,
+      "lost": 4,
+      "goals_for": 4,
+      "goals_against": 13,
+      "goal_difference": "-9",
+      "points": 4,
+      "competition_zone": "Descenso"
+    }
+  ]
+}

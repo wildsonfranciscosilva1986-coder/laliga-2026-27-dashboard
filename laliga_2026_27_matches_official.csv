@@ -1,0 +1,381 @@
+﻿round,official_match_id,date_local_madrid,kickoff_local_madrid,home_team,home_goals,away_goals,away_team,status,official_match_slug,official_round_url
+1,102249,2026-08-15,19:30,Deportivo Alavés,3,0,Getafe CF,finished,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-getafe-cf-1,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-1
+1,102257,2026-08-15,21:30,Sevilla FC,2,1,Rayo Vallecano,finished,temporada-2026-2027-laliga-ea-sports-sevilla-fc-rayo-vallecano-1,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-1
+1,102255,2026-08-16,17:00,R. Racing Club,2,2,Villarreal CF,finished,temporada-2026-2027-laliga-ea-sports-r-racing-club-villarreal-cf-1,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-1
+1,102253,2026-08-16,19:00,RCD Espanyol de Barcelona,3,0,Levante UD,finished,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-levante-ud-1,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-1
+1,102252,2026-08-17,21:00,RC Deportivo,1,1,Elche CF,finished,temporada-2026-2027-laliga-ea-sports-rc-deportivo-elche-cf-1,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-1
+1,102250,2026-08-19,21:00,Atlético de Madrid,2,0,Málaga CF,finished,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-malaga-cf-1,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-1
+1,102258,2026-08-25,21:00,Valencia CF,0,1,Real Betis,finished,temporada-2026-2027-laliga-ea-sports-valencia-cf-real-betis-1,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-1
+1,102256,2026-08-26,21:00,Real Madrid,4,1,Real Sociedad,finished,temporada-2026-2027-laliga-ea-sports-real-madrid-real-sociedad-1,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-1
+1,102251,2026-08-27,20:30,Celta,1,2,CA Osasuna,finished,temporada-2026-2027-laliga-ea-sports-rc-celta-ca-osasuna-1,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-1
+1,102254,2026-08-27,21:00,FC Barcelona,2,0,Athletic Club,finished,temporada-2026-2027-laliga-ea-sports-fc-barcelona-athletic-club-1,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-1
+2,102267,2026-08-20,21:00,Rayo Vallecano,1,1,Deportivo Alavés,finished,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-deportivo-alaves-2,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-2
+2,102261,2026-08-21,21:00,Real Betis,1,0,Real Sociedad,finished,temporada-2026-2027-laliga-ea-sports-real-betis-real-sociedad-2,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-2
+2,102259,2026-08-22,17:00,Athletic Club,1,3,Sevilla FC,finished,temporada-2026-2027-laliga-ea-sports-athletic-club-sevilla-fc-2,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-2
+2,102268,2026-08-22,19:30,Valencia CF,0,0,Celta,finished,temporada-2026-2027-laliga-ea-sports-valencia-cf-rc-celta-2,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-2
+2,102263,2026-08-22,21:30,RCD Espanyol de Barcelona,1,2,Real Madrid,finished,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-real-madrid-2,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-2
+2,102260,2026-08-23,17:00,Atlético de Madrid,2,2,Villarreal CF,finished,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-villarreal-cf-2,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-2
+2,102264,2026-08-23,19:30,Getafe CF,1,0,R. Racing Club,finished,temporada-2026-2027-laliga-ea-sports-getafe-cf-r-racing-club-2,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-2
+2,102262,2026-08-23,21:30,Elche CF,0,5,FC Barcelona,finished,temporada-2026-2027-laliga-ea-sports-elche-cf-fc-barcelona-2,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-2
+2,102266,2026-08-24,19:30,CA Osasuna,0,0,Levante UD,finished,temporada-2026-2027-laliga-ea-sports-ca-osasuna-levante-ud-2,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-2
+2,102265,2026-08-24,21:30,Málaga CF,1,1,RC Deportivo,finished,temporada-2026-2027-laliga-ea-sports-malaga-cf-rc-deportivo-2,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-2
+3,102275,2026-08-28,19:00,R. Racing Club,3,2,Elche CF,finished,temporada-2026-2027-laliga-ea-sports-r-racing-club-elche-cf-3,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-3
+3,102269,2026-08-28,21:30,Deportivo Alavés,1,0,Villarreal CF,finished,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-villarreal-cf-3,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-3
+3,102273,2026-08-29,17:00,Levante UD,5,2,Real Betis,finished,temporada-2026-2027-laliga-ea-sports-levante-ud-real-betis-3,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-3
+3,102277,2026-08-29,19:00,Real Sociedad,2,1,RCD Espanyol de Barcelona,finished,temporada-2026-2027-laliga-ea-sports-real-sociedad-rcd-espanyol-de-barcelona-3,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-3
+3,102278,2026-08-29,21:30,Sevilla FC,1,3,Atlético de Madrid,finished,temporada-2026-2027-laliga-ea-sports-sevilla-fc-atletico-de-madrid-3,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-3
+3,102276,2026-08-30,17:00,Real Madrid,4,0,Málaga CF,finished,temporada-2026-2027-laliga-ea-sports-real-madrid-malaga-cf-3,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-3
+3,102271,2026-08-30,19:30,RC Deportivo,3,1,Valencia CF,finished,temporada-2026-2027-laliga-ea-sports-rc-deportivo-valencia-cf-3,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-3
+3,102270,2026-08-30,21:30,Celta,0,2,Athletic Club,finished,temporada-2026-2027-laliga-ea-sports-rc-celta-athletic-club-3,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-3
+3,102274,2026-08-31,19:30,CA Osasuna,1,0,Getafe CF,finished,temporada-2026-2027-laliga-ea-sports-ca-osasuna-getafe-cf-3,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-3
+3,102272,2026-08-31,21:30,FC Barcelona,5,2,Rayo Vallecano,finished,temporada-2026-2027-laliga-ea-sports-fc-barcelona-rayo-vallecano-3,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-3
+4,102281,2026-09-04,21:00,Real Betis,1,0,Real Madrid,finished,temporada-2026-2027-laliga-ea-sports-real-betis-real-madrid-4,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-4
+4,102280,2026-09-05,16:15,Athletic Club,3,0,Atlético de Madrid,finished,temporada-2026-2027-laliga-ea-sports-athletic-club-atletico-de-madrid-4,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-4
+4,102286,2026-09-05,18:30,Rayo Vallecano,3,2,R. Racing Club,finished,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-r-racing-club-4,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-4
+4,102288,2026-09-05,21:00,Villarreal CF,2,3,RC Deportivo,finished,temporada-2026-2027-laliga-ea-sports-villarreal-cf-rc-deportivo-4,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-4
+4,102287,2026-09-06,16:15,Valencia CF,0,5,FC Barcelona,finished,temporada-2026-2027-laliga-ea-sports-valencia-cf-fc-barcelona-4,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-4
+4,102279,2026-09-06,18:30,Deportivo Alavés,5,2,CA Osasuna,finished,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-ca-osasuna-4,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-4
+4,102285,2026-09-06,18:30,Málaga CF,0,0,Levante UD,finished,temporada-2026-2027-laliga-ea-sports-malaga-cf-levante-ud-4,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-4
+4,102283,2026-09-06,21:00,RCD Espanyol de Barcelona,1,1,Sevilla FC,finished,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-sevilla-fc-4,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-4
+4,102284,2026-09-07,19:00,Getafe CF,1,1,Celta,finished,temporada-2026-2027-laliga-ea-sports-getafe-cf-rc-celta-4,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-4
+4,102282,2026-09-07,21:30,Elche CF,2,3,Real Sociedad,finished,temporada-2026-2027-laliga-ea-sports-elche-cf-real-sociedad-4,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-4
+5,102297,2026-09-11,21:00,Sevilla FC,1,0,Valencia CF,finished,temporada-2026-2027-laliga-ea-sports-sevilla-fc-valencia-cf-5,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-5
+5,102294,2026-09-12,14:00,R. Racing Club,2,1,Deportivo Alavés,finished,temporada-2026-2027-laliga-ea-sports-r-racing-club-deportivo-alaves-5,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-5
+5,102293,2026-09-12,16:15,CA Osasuna,0,2,RCD Espanyol de Barcelona,finished,temporada-2026-2027-laliga-ea-sports-ca-osasuna-rcd-espanyol-de-barcelona-5,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-5
+5,102289,2026-09-12,18:30,Athletic Club,1,1,Elche CF,finished,temporada-2026-2027-laliga-ea-sports-athletic-club-elche-cf-5,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-5
+5,102295,2026-09-12,21:00,Real Madrid,4,1,Rayo Vallecano,finished,temporada-2026-2027-laliga-ea-sports-real-madrid-rayo-vallecano-5,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-5
+5,102290,2026-09-13,14:00,Celta,1,1,Málaga CF,finished,temporada-2026-2027-laliga-ea-sports-rc-celta-malaga-cf-5,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-5
+5,102292,2026-09-13,16:15,Levante UD,2,4,FC Barcelona,finished,temporada-2026-2027-laliga-ea-sports-levante-ud-fc-barcelona-5,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-5
+5,102291,2026-09-13,18:30,Getafe CF,1,1,RC Deportivo,finished,temporada-2026-2027-laliga-ea-sports-getafe-cf-rc-deportivo-5,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-5
+5,102296,2026-09-13,21:00,Real Sociedad,0,3,Atlético de Madrid,finished,temporada-2026-2027-laliga-ea-sports-real-sociedad-atletico-de-madrid-5,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-5
+5,102298,2026-09-14,21:00,Villarreal CF,1,2,Real Betis,finished,temporada-2026-2027-laliga-ea-sports-villarreal-cf-real-betis-5,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-5
+6,102308,2026-09-03,21:00,Real Sociedad,0,0,Celta,finished,temporada-2026-2027-laliga-ea-sports-real-sociedad-rc-celta-6,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-6
+6,102307,2026-09-15,19:00,Rayo Vallecano,2,1,RCD Espanyol de Barcelona,finished,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-rcd-espanyol-de-barcelona-6,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-6
+6,102299,2026-09-15,20:00,Deportivo Alavés,0,1,Valencia CF,finished,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-valencia-cf-6,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-6
+6,102303,2026-09-15,21:30,Elche CF,2,3,Real Madrid,finished,temporada-2026-2027-laliga-ea-sports-elche-cf-real-madrid-6,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-6
+6,102300,2026-09-16,19:00,Atlético de Madrid,4,0,CA Osasuna,finished,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-ca-osasuna-6,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-6
+6,102302,2026-09-16,19:00,RC Deportivo,0,1,Sevilla FC,finished,temporada-2026-2027-laliga-ea-sports-rc-deportivo-sevilla-fc-6,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-6
+6,102304,2026-09-16,21:30,FC Barcelona,7,2,R. Racing Club,finished,temporada-2026-2027-laliga-ea-sports-fc-barcelona-r-racing-club-6,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-6
+6,102301,2026-09-17,19:00,Real Betis,1,0,Getafe CF,finished,temporada-2026-2027-laliga-ea-sports-real-betis-getafe-cf-6,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-6
+6,102306,2026-09-17,21:30,Málaga CF,1,3,Villarreal CF,finished,temporada-2026-2027-laliga-ea-sports-malaga-cf-villarreal-cf-6,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-6
+6,102305,2026-10-21,20:00,Levante UD,,,Athletic Club,scheduled,temporada-2026-2027-laliga-ea-sports-levante-ud-athletic-club-6,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-6
+7,102313,2026-09-18,21:00,RCD Espanyol de Barcelona,1,3,Elche CF,finished,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-elche-cf-7,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-7
+7,102315,2026-09-19,14:00,CA Osasuna,1,1,Rayo Vallecano,finished,temporada-2026-2027-laliga-ea-sports-ca-osasuna-rayo-vallecano-7,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-7
+7,102309,2026-09-19,16:15,Athletic Club,0,0,Deportivo Alavés,finished,temporada-2026-2027-laliga-ea-sports-athletic-club-deportivo-alaves-7,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-7
+7,102311,2026-09-19,18:30,Celta,5,0,R. Racing Club,finished,temporada-2026-2027-laliga-ea-sports-rc-celta-r-racing-club-7,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-7
+7,102316,2026-09-19,21:00,Sevilla FC,1,3,FC Barcelona,finished,temporada-2026-2027-laliga-ea-sports-sevilla-fc-fc-barcelona-7,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-7
+7,102314,2026-09-20,14:00,Getafe CF,1,0,Málaga CF,finished,temporada-2026-2027-laliga-ea-sports-getafe-cf-malaga-cf-7,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-7
+7,102310,2026-09-20,16:15,Atlético de Madrid,2,1,Real Madrid,finished,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-real-madrid-7,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-7
+7,102312,2026-09-20,18:30,RC Deportivo,1,1,Real Betis,finished,temporada-2026-2027-laliga-ea-sports-rc-deportivo-real-betis-7,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-7
+7,102318,2026-09-20,18:30,Villarreal CF,3,1,Levante UD,finished,temporada-2026-2027-laliga-ea-sports-villarreal-cf-levante-ud-7,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-7
+7,102317,2026-09-20,21:00,Valencia CF,2,3,Real Sociedad,finished,temporada-2026-2027-laliga-ea-sports-valencia-cf-real-sociedad-7,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-7
+8,102324,2026-10-09,21:00,Málaga CF,1,1,RCD Espanyol de Barcelona,finished,temporada-2026-2027-laliga-ea-sports-malaga-cf-rcd-espanyol-de-barcelona-8,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-8
+8,102326,2026-10-10,14:00,Rayo Vallecano,,,Athletic Club,abandoned,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-athletic-club-8,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-8
+8,102319,2026-10-10,16:15,Deportivo Alavés,1,2,Atlético de Madrid,finished,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-atletico-de-madrid-8,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-8
+8,102322,2026-10-10,18:30,FC Barcelona,3,0,Getafe CF,finished,temporada-2026-2027-laliga-ea-sports-fc-barcelona-getafe-cf-8,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-8
+8,102327,2026-10-10,21:00,Real Madrid,1,0,Villarreal CF,finished,temporada-2026-2027-laliga-ea-sports-real-madrid-villarreal-cf-8,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-8
+8,102321,2026-10-11,14:00,Elche CF,0,0,Celta,finished,temporada-2026-2027-laliga-ea-sports-elche-cf-rc-celta-8,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-8
+8,102328,2026-10-11,16:15,Real Sociedad,3,2,RC Deportivo,finished,temporada-2026-2027-laliga-ea-sports-real-sociedad-rc-deportivo-8,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-8
+8,102320,2026-10-11,18:30,Real Betis,5,2,CA Osasuna,finished,temporada-2026-2027-laliga-ea-sports-real-betis-ca-osasuna-8,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-8
+8,102325,2026-10-11,21:00,R. Racing Club,2,2,Valencia CF,finished,temporada-2026-2027-laliga-ea-sports-r-racing-club-valencia-cf-8,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-8
+8,102323,2026-10-12,21:00,Levante UD,3,3,Sevilla FC,finished,temporada-2026-2027-laliga-ea-sports-levante-ud-sevilla-fc-8,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-8
+9,102331,2026-10-16,21:00,RC Deportivo,1,1,Levante UD,finished,temporada-2026-2027-laliga-ea-sports-rc-deportivo-levante-ud-9,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-9
+9,102332,2026-10-17,14:00,RCD Espanyol de Barcelona,0,1,Atlético de Madrid,finished,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-atletico-de-madrid-9,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-9
+9,102338,2026-10-17,16:15,Villarreal CF,0,0,Elche CF,finished,temporada-2026-2027-laliga-ea-sports-villarreal-cf-elche-cf-9,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-9
+9,102329,2026-10-17,18:30,Real Betis,2,5,FC Barcelona,finished,temporada-2026-2027-laliga-ea-sports-real-betis-fc-barcelona-9,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-9
+9,102337,2026-10-17,21:00,Valencia CF,0,0,Athletic Club,finished,temporada-2026-2027-laliga-ea-sports-valencia-cf-athletic-club-9,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-9
+9,102335,2026-10-18,14:00,CA Osasuna,2,0,R. Racing Club,finished,temporada-2026-2027-laliga-ea-sports-ca-osasuna-r-racing-club-9,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-9
+9,102330,2026-10-18,16:15,Celta,,,Deportivo Alavés,scheduled,temporada-2026-2027-laliga-ea-sports-rc-celta-deportivo-alaves-9,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-9
+9,102334,2026-10-18,18:30,Málaga CF,,,Real Sociedad,scheduled,temporada-2026-2027-laliga-ea-sports-malaga-cf-real-sociedad-9,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-9
+9,102336,2026-10-18,21:00,Real Madrid,,,Sevilla FC,scheduled,temporada-2026-2027-laliga-ea-sports-real-madrid-sevilla-fc-9,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-9
+9,102333,2026-10-19,21:00,Getafe CF,,,Rayo Vallecano,scheduled,temporada-2026-2027-laliga-ea-sports-getafe-cf-rayo-vallecano-9,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-9
+10,102339,2026-10-23,21:00,Deportivo Alavés,,,Málaga CF,scheduled,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-malaga-cf-10,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10
+10,102345,2026-10-24,14:00,Rayo Vallecano,,,Elche CF,scheduled,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-elche-cf-10,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10
+10,102344,2026-10-24,16:15,R. Racing Club,,,RCD Espanyol de Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-r-racing-club-rcd-espanyol-de-barcelona-10,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10
+10,102348,2026-10-24,18:30,Valencia CF,,,Villarreal CF,scheduled,temporada-2026-2027-laliga-ea-sports-valencia-cf-villarreal-cf-10,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10
+10,102341,2026-10-24,21:00,Atlético de Madrid,,,RC Deportivo,scheduled,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-rc-deportivo-10,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10
+10,102340,2026-10-25,14:00,Athletic Club,,,Getafe CF,scheduled,temporada-2026-2027-laliga-ea-sports-athletic-club-getafe-cf-10,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10
+10,102342,2026-10-25,16:15,Celta,,,Real Betis,scheduled,temporada-2026-2027-laliga-ea-sports-rc-celta-real-betis-10,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10
+10,102346,2026-10-25,18:30,Real Sociedad,,,Levante UD,scheduled,temporada-2026-2027-laliga-ea-sports-real-sociedad-levante-ud-10,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10
+10,102343,2026-10-25,21:00,FC Barcelona,,,Real Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-fc-barcelona-real-madrid-10,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10
+10,102347,2026-10-26,21:00,Sevilla FC,,,CA Osasuna,scheduled,temporada-2026-2027-laliga-ea-sports-sevilla-fc-ca-osasuna-10,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10
+11,102358,2026-10-30,21:00,Villarreal CF,,,RCD Espanyol de Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-villarreal-cf-rcd-espanyol-de-barcelona-11,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-11
+11,102355,2026-10-31,14:00,Levante UD,,,Atlético de Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-levante-ud-atletico-de-madrid-11,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-11
+11,102357,2026-10-31,16:15,Rayo Vallecano,,,Celta,scheduled,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-rc-celta-11,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-11
+11,102350,2026-10-31,18:30,Real Betis,,,Málaga CF,scheduled,temporada-2026-2027-laliga-ea-sports-real-betis-malaga-cf-11,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-11
+11,102353,2026-10-31,21:00,FC Barcelona,,,Deportivo Alavés,scheduled,temporada-2026-2027-laliga-ea-sports-fc-barcelona-deportivo-alaves-11,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-11
+11,102354,2026-11-01,14:00,Getafe CF,,,Sevilla FC,scheduled,temporada-2026-2027-laliga-ea-sports-getafe-cf-sevilla-fc-11,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-11
+11,102356,2026-11-01,16:15,R. Racing Club,,,Real Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-r-racing-club-real-madrid-11,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-11
+11,102352,2026-11-01,18:30,Elche CF,,,Valencia CF,scheduled,temporada-2026-2027-laliga-ea-sports-elche-cf-valencia-cf-11,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-11
+11,102349,2026-11-01,21:00,Athletic Club,,,Real Sociedad,scheduled,temporada-2026-2027-laliga-ea-sports-athletic-club-real-sociedad-11,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-11
+11,102351,2026-11-02,21:00,RC Deportivo,,,CA Osasuna,scheduled,temporada-2026-2027-laliga-ea-sports-rc-deportivo-ca-osasuna-11,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-11
+12,102366,2026-11-06,21:00,Sevilla FC,,,Deportivo Alavés,scheduled,temporada-2026-2027-laliga-ea-sports-sevilla-fc-deportivo-alaves-12,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-12
+12,102363,2026-11-07,14:00,Málaga CF,,,R. Racing Club,scheduled,temporada-2026-2027-laliga-ea-sports-malaga-cf-r-racing-club-12,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-12
+12,102362,2026-11-07,16:15,RCD Espanyol de Barcelona,,,RC Deportivo,scheduled,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-rc-deportivo-12,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-12
+12,102364,2026-11-07,18:30,CA Osasuna,,,Athletic Club,scheduled,temporada-2026-2027-laliga-ea-sports-ca-osasuna-athletic-club-12,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-12
+12,102367,2026-11-07,21:00,Valencia CF,,,Real Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-valencia-cf-real-madrid-12,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-12
+12,102361,2026-11-08,14:00,Elche CF,,,Real Betis,scheduled,temporada-2026-2027-laliga-ea-sports-elche-cf-real-betis-12,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-12
+12,102365,2026-11-08,16:15,Real Sociedad,,,Rayo Vallecano,scheduled,temporada-2026-2027-laliga-ea-sports-real-sociedad-rayo-vallecano-12,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-12
+12,102360,2026-11-08,18:30,Celta,,,Levante UD,scheduled,temporada-2026-2027-laliga-ea-sports-rc-celta-levante-ud-12,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-12
+12,102368,2026-11-08,18:30,Villarreal CF,,,Getafe CF,scheduled,temporada-2026-2027-laliga-ea-sports-villarreal-cf-getafe-cf-12,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-12
+12,102359,2026-11-08,21:00,Atlético de Madrid,,,FC Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-fc-barcelona-12,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-12
+13,102369,2026-11-22,,Deportivo Alavés,,,RC Deportivo,scheduled,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-rc-deportivo-13,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13
+13,102370,2026-11-22,,Athletic Club,,,RCD Espanyol de Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-athletic-club-rcd-espanyol-de-barcelona-13,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13
+13,102371,2026-11-22,,FC Barcelona,,,Villarreal CF,scheduled,temporada-2026-2027-laliga-ea-sports-fc-barcelona-villarreal-cf-13,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13
+13,102372,2026-11-22,,Getafe CF,,,Atlético de Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-getafe-cf-atletico-de-madrid-13,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13
+13,102373,2026-11-22,,Levante UD,,,Elche CF,scheduled,temporada-2026-2027-laliga-ea-sports-levante-ud-elche-cf-13,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13
+13,102374,2026-11-22,,CA Osasuna,,,Málaga CF,scheduled,temporada-2026-2027-laliga-ea-sports-ca-osasuna-malaga-cf-13,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13
+13,102375,2026-11-22,,R. Racing Club,,,Real Sociedad,scheduled,temporada-2026-2027-laliga-ea-sports-r-racing-club-real-sociedad-13,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13
+13,102376,2026-11-22,,Rayo Vallecano,,,Valencia CF,scheduled,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-valencia-cf-13,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13
+13,102377,2026-11-22,,Real Madrid,,,Celta,scheduled,temporada-2026-2027-laliga-ea-sports-real-madrid-rc-celta-13,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13
+13,102378,2026-11-22,,Sevilla FC,,,Real Betis,scheduled,temporada-2026-2027-laliga-ea-sports-sevilla-fc-real-betis-13,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13
+14,102379,2026-11-29,,Real Betis,,,Rayo Vallecano,scheduled,temporada-2026-2027-laliga-ea-sports-real-betis-rayo-vallecano-14,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-14
+14,102380,2026-11-29,,Celta,,,Villarreal CF,scheduled,temporada-2026-2027-laliga-ea-sports-rc-celta-villarreal-cf-14,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-14
+14,102381,2026-11-29,,RC Deportivo,,,FC Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-rc-deportivo-fc-barcelona-14,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-14
+14,102382,2026-11-29,,Elche CF,,,Atlético de Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-elche-cf-atletico-de-madrid-14,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-14
+14,102383,2026-11-29,,RCD Espanyol de Barcelona,,,Getafe CF,scheduled,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-getafe-cf-14,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-14
+14,102384,2026-11-29,,Levante UD,,,R. Racing Club,scheduled,temporada-2026-2027-laliga-ea-sports-levante-ud-r-racing-club-14,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-14
+14,102385,2026-11-29,,Málaga CF,,,Athletic Club,scheduled,temporada-2026-2027-laliga-ea-sports-malaga-cf-athletic-club-14,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-14
+14,102386,2026-11-29,,Real Madrid,,,Deportivo Alavés,scheduled,temporada-2026-2027-laliga-ea-sports-real-madrid-deportivo-alaves-14,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-14
+14,102387,2026-11-29,,Real Sociedad,,,Sevilla FC,scheduled,temporada-2026-2027-laliga-ea-sports-real-sociedad-sevilla-fc-14,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-14
+14,102388,2026-11-29,,Valencia CF,,,CA Osasuna,scheduled,temporada-2026-2027-laliga-ea-sports-valencia-cf-ca-osasuna-14,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-14
+15,102389,2026-12-06,,Deportivo Alavés,,,RCD Espanyol de Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-rcd-espanyol-de-barcelona-15,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-15
+15,102390,2026-12-06,,Athletic Club,,,Real Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-athletic-club-real-madrid-15,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-15
+15,102391,2026-12-06,,Atlético de Madrid,,,Real Betis,scheduled,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-real-betis-15,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-15
+15,102392,2026-12-06,,FC Barcelona,,,Celta,scheduled,temporada-2026-2027-laliga-ea-sports-fc-barcelona-rc-celta-15,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-15
+15,102393,2026-12-06,,Getafe CF,,,Valencia CF,scheduled,temporada-2026-2027-laliga-ea-sports-getafe-cf-valencia-cf-15,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-15
+15,102394,2026-12-06,,CA Osasuna,,,Elche CF,scheduled,temporada-2026-2027-laliga-ea-sports-ca-osasuna-elche-cf-15,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-15
+15,102395,2026-12-06,,R. Racing Club,,,RC Deportivo,scheduled,temporada-2026-2027-laliga-ea-sports-r-racing-club-rc-deportivo-15,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-15
+15,102396,2026-12-06,,Rayo Vallecano,,,Levante UD,scheduled,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-levante-ud-15,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-15
+15,102397,2026-12-06,,Sevilla FC,,,Málaga CF,scheduled,temporada-2026-2027-laliga-ea-sports-sevilla-fc-malaga-cf-15,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-15
+15,102398,2026-12-06,,Villarreal CF,,,Real Sociedad,scheduled,temporada-2026-2027-laliga-ea-sports-villarreal-cf-real-sociedad-15,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-15
+16,102399,2026-12-13,,Atlético de Madrid,,,Valencia CF,scheduled,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-valencia-cf-16,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-16
+16,102400,2026-12-13,,Real Betis,,,R. Racing Club,scheduled,temporada-2026-2027-laliga-ea-sports-real-betis-r-racing-club-16,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-16
+16,102401,2026-12-13,,RC Deportivo,,,Athletic Club,scheduled,temporada-2026-2027-laliga-ea-sports-rc-deportivo-athletic-club-16,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-16
+16,102402,2026-12-13,,Elche CF,,,Sevilla FC,scheduled,temporada-2026-2027-laliga-ea-sports-elche-cf-sevilla-fc-16,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-16
+16,102403,2026-12-13,,RCD Espanyol de Barcelona,,,Celta,scheduled,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-rc-celta-16,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-16
+16,102404,2026-12-13,,Levante UD,,,Deportivo Alavés,scheduled,temporada-2026-2027-laliga-ea-sports-levante-ud-deportivo-alaves-16,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-16
+16,102405,2026-12-13,,Málaga CF,,,FC Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-malaga-cf-fc-barcelona-16,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-16
+16,102406,2026-12-13,,Real Madrid,,,CA Osasuna,scheduled,temporada-2026-2027-laliga-ea-sports-real-madrid-ca-osasuna-16,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-16
+16,102407,2026-12-13,,Real Sociedad,,,Getafe CF,scheduled,temporada-2026-2027-laliga-ea-sports-real-sociedad-getafe-cf-16,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-16
+16,102408,2026-12-13,,Villarreal CF,,,Rayo Vallecano,scheduled,temporada-2026-2027-laliga-ea-sports-villarreal-cf-rayo-vallecano-16,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-16
+17,102409,2026-12-20,,Deportivo Alavés,,,Elche CF,scheduled,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-elche-cf-17,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-17
+17,102410,2026-12-20,,Athletic Club,,,Real Betis,scheduled,temporada-2026-2027-laliga-ea-sports-athletic-club-real-betis-17,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-17
+17,102411,2026-12-20,,Celta,,,Atlético de Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-rc-celta-atletico-de-madrid-17,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-17
+17,102412,2026-12-20,,RC Deportivo,,,Real Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-rc-deportivo-real-madrid-17,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-17
+17,102413,2026-12-20,,FC Barcelona,,,Real Sociedad,scheduled,temporada-2026-2027-laliga-ea-sports-fc-barcelona-real-sociedad-17,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-17
+17,102414,2026-12-20,,Getafe CF,,,Levante UD,scheduled,temporada-2026-2027-laliga-ea-sports-getafe-cf-levante-ud-17,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-17
+17,102415,2026-12-20,,CA Osasuna,,,Villarreal CF,scheduled,temporada-2026-2027-laliga-ea-sports-ca-osasuna-villarreal-cf-17,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-17
+17,102416,2026-12-20,,Rayo Vallecano,,,Málaga CF,scheduled,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-malaga-cf-17,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-17
+17,102417,2026-12-20,,Sevilla FC,,,R. Racing Club,scheduled,temporada-2026-2027-laliga-ea-sports-sevilla-fc-r-racing-club-17,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-17
+17,102418,2026-12-20,,Valencia CF,,,RCD Espanyol de Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-valencia-cf-rcd-espanyol-de-barcelona-17,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-17
+18,102419,2027-01-03,,Real Betis,,,Deportivo Alavés,scheduled,temporada-2026-2027-laliga-ea-sports-real-betis-deportivo-alaves-18,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-18
+18,102420,2027-01-03,,Celta,,,RC Deportivo,scheduled,temporada-2026-2027-laliga-ea-sports-rc-celta-rc-deportivo-18,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-18
+18,102421,2027-01-03,,RCD Espanyol de Barcelona,,,FC Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-fc-barcelona-18,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-18
+18,102422,2027-01-03,,Levante UD,,,Valencia CF,scheduled,temporada-2026-2027-laliga-ea-sports-levante-ud-valencia-cf-18,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-18
+18,102423,2027-01-03,,Málaga CF,,,Elche CF,scheduled,temporada-2026-2027-laliga-ea-sports-malaga-cf-elche-cf-18,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-18
+18,102424,2027-01-03,,R. Racing Club,,,Athletic Club,scheduled,temporada-2026-2027-laliga-ea-sports-r-racing-club-athletic-club-18,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-18
+18,102425,2027-01-03,,Rayo Vallecano,,,Atlético de Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-atletico-de-madrid-18,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-18
+18,102426,2027-01-03,,Real Madrid,,,Getafe CF,scheduled,temporada-2026-2027-laliga-ea-sports-real-madrid-getafe-cf-18,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-18
+18,102427,2027-01-03,,Real Sociedad,,,CA Osasuna,scheduled,temporada-2026-2027-laliga-ea-sports-real-sociedad-ca-osasuna-18,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-18
+18,102428,2027-01-03,,Villarreal CF,,,Sevilla FC,scheduled,temporada-2026-2027-laliga-ea-sports-villarreal-cf-sevilla-fc-18,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-18
+19,102429,2027-01-10,,Deportivo Alavés,,,Real Sociedad,scheduled,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-real-sociedad-19,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-19
+19,102430,2027-01-10,,Athletic Club,,,Villarreal CF,scheduled,temporada-2026-2027-laliga-ea-sports-athletic-club-villarreal-cf-19,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-19
+19,102431,2027-01-10,,Atlético de Madrid,,,R. Racing Club,scheduled,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-r-racing-club-19,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-19
+19,102432,2027-01-10,,RC Deportivo,,,Rayo Vallecano,scheduled,temporada-2026-2027-laliga-ea-sports-rc-deportivo-rayo-vallecano-19,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-19
+19,102433,2027-01-10,,Elche CF,,,Getafe CF,scheduled,temporada-2026-2027-laliga-ea-sports-elche-cf-getafe-cf-19,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-19
+19,102434,2027-01-10,,RCD Espanyol de Barcelona,,,Real Betis,scheduled,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-real-betis-19,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-19
+19,102435,2027-01-10,,CA Osasuna,,,FC Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-ca-osasuna-fc-barcelona-19,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-19
+19,102436,2027-01-10,,Real Madrid,,,Levante UD,scheduled,temporada-2026-2027-laliga-ea-sports-real-madrid-levante-ud-19,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-19
+19,102437,2027-01-10,,Sevilla FC,,,Celta,scheduled,temporada-2026-2027-laliga-ea-sports-sevilla-fc-rc-celta-19,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-19
+19,102438,2027-01-10,,Valencia CF,,,Málaga CF,scheduled,temporada-2026-2027-laliga-ea-sports-valencia-cf-malaga-cf-19,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-19
+20,102439,2027-01-17,,Atlético de Madrid,,,Real Sociedad,scheduled,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-real-sociedad-20,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-20
+20,102440,2027-01-17,,Real Betis,,,RC Deportivo,scheduled,temporada-2026-2027-laliga-ea-sports-real-betis-rc-deportivo-20,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-20
+20,102441,2027-01-17,,Celta,,,Valencia CF,scheduled,temporada-2026-2027-laliga-ea-sports-rc-celta-valencia-cf-20,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-20
+20,102442,2027-01-17,,FC Barcelona,,,Elche CF,scheduled,temporada-2026-2027-laliga-ea-sports-fc-barcelona-elche-cf-20,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-20
+20,102443,2027-01-17,,Getafe CF,,,Athletic Club,scheduled,temporada-2026-2027-laliga-ea-sports-getafe-cf-athletic-club-20,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-20
+20,102444,2027-01-17,,Levante UD,,,RCD Espanyol de Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-levante-ud-rcd-espanyol-de-barcelona-20,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-20
+20,102445,2027-01-17,,Málaga CF,,,Real Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-malaga-cf-real-madrid-20,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-20
+20,102446,2027-01-17,,R. Racing Club,,,CA Osasuna,scheduled,temporada-2026-2027-laliga-ea-sports-r-racing-club-ca-osasuna-20,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-20
+20,102447,2027-01-17,,Rayo Vallecano,,,Sevilla FC,scheduled,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-sevilla-fc-20,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-20
+20,102448,2027-01-17,,Villarreal CF,,,Deportivo Alavés,scheduled,temporada-2026-2027-laliga-ea-sports-villarreal-cf-deportivo-alaves-20,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-20
+21,102449,2027-01-24,,Deportivo Alavés,,,FC Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-fc-barcelona-21,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-21
+21,102450,2027-01-24,,Athletic Club,,,Levante UD,scheduled,temporada-2026-2027-laliga-ea-sports-athletic-club-levante-ud-21,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-21
+21,102451,2027-01-24,,RC Deportivo,,,Atlético de Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-rc-deportivo-atletico-de-madrid-21,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-21
+21,102452,2027-01-24,,Elche CF,,,Rayo Vallecano,scheduled,temporada-2026-2027-laliga-ea-sports-elche-cf-rayo-vallecano-21,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-21
+21,102453,2027-01-24,,RCD Espanyol de Barcelona,,,Villarreal CF,scheduled,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-villarreal-cf-21,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-21
+21,102454,2027-01-24,,Getafe CF,,,CA Osasuna,scheduled,temporada-2026-2027-laliga-ea-sports-getafe-cf-ca-osasuna-21,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-21
+21,102455,2027-01-24,,R. Racing Club,,,Celta,scheduled,temporada-2026-2027-laliga-ea-sports-r-racing-club-rc-celta-21,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-21
+21,102456,2027-01-24,,Real Madrid,,,Real Betis,scheduled,temporada-2026-2027-laliga-ea-sports-real-madrid-real-betis-21,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-21
+21,102457,2027-01-24,,Real Sociedad,,,Málaga CF,scheduled,temporada-2026-2027-laliga-ea-sports-real-sociedad-malaga-cf-21,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-21
+21,102458,2027-01-24,,Valencia CF,,,Sevilla FC,scheduled,temporada-2026-2027-laliga-ea-sports-valencia-cf-sevilla-fc-21,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-21
+22,102459,2027-01-31,,Atlético de Madrid,,,RCD Espanyol de Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-rcd-espanyol-de-barcelona-22,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-22
+22,102460,2027-01-31,,Real Betis,,,Elche CF,scheduled,temporada-2026-2027-laliga-ea-sports-real-betis-elche-cf-22,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-22
+22,102461,2027-01-31,,Celta,,,Getafe CF,scheduled,temporada-2026-2027-laliga-ea-sports-rc-celta-getafe-cf-22,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-22
+22,102462,2027-01-31,,FC Barcelona,,,Valencia CF,scheduled,temporada-2026-2027-laliga-ea-sports-fc-barcelona-valencia-cf-22,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-22
+22,102463,2027-01-31,,Levante UD,,,Real Sociedad,scheduled,temporada-2026-2027-laliga-ea-sports-levante-ud-real-sociedad-22,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-22
+22,102464,2027-01-31,,Málaga CF,,,Deportivo Alavés,scheduled,temporada-2026-2027-laliga-ea-sports-malaga-cf-deportivo-alaves-22,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-22
+22,102465,2027-01-31,,CA Osasuna,,,RC Deportivo,scheduled,temporada-2026-2027-laliga-ea-sports-ca-osasuna-rc-deportivo-22,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-22
+22,102466,2027-01-31,,Rayo Vallecano,,,Real Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-real-madrid-22,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-22
+22,102467,2027-01-31,,Sevilla FC,,,Athletic Club,scheduled,temporada-2026-2027-laliga-ea-sports-sevilla-fc-athletic-club-22,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-22
+22,102468,2027-01-31,,Villarreal CF,,,R. Racing Club,scheduled,temporada-2026-2027-laliga-ea-sports-villarreal-cf-r-racing-club-22,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-22
+23,102469,2027-02-07,,Deportivo Alavés,,,Celta,scheduled,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-rc-celta-23,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-23
+23,102470,2027-02-07,,Athletic Club,,,CA Osasuna,scheduled,temporada-2026-2027-laliga-ea-sports-athletic-club-ca-osasuna-23,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-23
+23,102471,2027-02-07,,Real Betis,,,Sevilla FC,scheduled,temporada-2026-2027-laliga-ea-sports-real-betis-sevilla-fc-23,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-23
+23,102472,2027-02-07,,RC Deportivo,,,Málaga CF,scheduled,temporada-2026-2027-laliga-ea-sports-rc-deportivo-malaga-cf-23,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-23
+23,102473,2027-02-07,,Elche CF,,,Levante UD,scheduled,temporada-2026-2027-laliga-ea-sports-elche-cf-levante-ud-23,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-23
+23,102474,2027-02-07,,RCD Espanyol de Barcelona,,,Rayo Vallecano,scheduled,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-rayo-vallecano-23,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-23
+23,102475,2027-02-07,,FC Barcelona,,,Atlético de Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-fc-barcelona-atletico-de-madrid-23,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-23
+23,102476,2027-02-07,,Getafe CF,,,Villarreal CF,scheduled,temporada-2026-2027-laliga-ea-sports-getafe-cf-villarreal-cf-23,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-23
+23,102477,2027-02-07,,Real Sociedad,,,Real Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-real-sociedad-real-madrid-23,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-23
+23,102478,2027-02-07,,Valencia CF,,,R. Racing Club,scheduled,temporada-2026-2027-laliga-ea-sports-valencia-cf-r-racing-club-23,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-23
+24,102479,2027-02-14,,Celta,,,Rayo Vallecano,scheduled,temporada-2026-2027-laliga-ea-sports-rc-celta-rayo-vallecano-24,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-24
+24,102480,2027-02-14,,Elche CF,,,RC Deportivo,scheduled,temporada-2026-2027-laliga-ea-sports-elche-cf-rc-deportivo-24,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-24
+24,102481,2027-02-14,,Levante UD,,,Málaga CF,scheduled,temporada-2026-2027-laliga-ea-sports-levante-ud-malaga-cf-24,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-24
+24,102482,2027-02-14,,CA Osasuna,,,Atlético de Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-ca-osasuna-atletico-de-madrid-24,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-24
+24,102483,2027-02-14,,R. Racing Club,,,Getafe CF,scheduled,temporada-2026-2027-laliga-ea-sports-r-racing-club-getafe-cf-24,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-24
+24,102484,2027-02-14,,Real Madrid,,,Athletic Club,scheduled,temporada-2026-2027-laliga-ea-sports-real-madrid-athletic-club-24,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-24
+24,102485,2027-02-14,,Real Sociedad,,,Real Betis,scheduled,temporada-2026-2027-laliga-ea-sports-real-sociedad-real-betis-24,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-24
+24,102486,2027-02-14,,Sevilla FC,,,RCD Espanyol de Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-sevilla-fc-rcd-espanyol-de-barcelona-24,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-24
+24,102487,2027-02-14,,Valencia CF,,,Deportivo Alavés,scheduled,temporada-2026-2027-laliga-ea-sports-valencia-cf-deportivo-alaves-24,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-24
+24,102488,2027-02-14,,Villarreal CF,,,FC Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-villarreal-cf-fc-barcelona-24,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-24
+25,102489,2027-02-21,,Deportivo Alavés,,,R. Racing Club,scheduled,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-r-racing-club-25,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-25
+25,102490,2027-02-21,,Athletic Club,,,Celta,scheduled,temporada-2026-2027-laliga-ea-sports-athletic-club-rc-celta-25,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-25
+25,102491,2027-02-21,,Atlético de Madrid,,,Elche CF,scheduled,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-elche-cf-25,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-25
+25,102492,2027-02-21,,RC Deportivo,,,Real Sociedad,scheduled,temporada-2026-2027-laliga-ea-sports-rc-deportivo-real-sociedad-25,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-25
+25,102493,2027-02-21,,RCD Espanyol de Barcelona,,,CA Osasuna,scheduled,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-ca-osasuna-25,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-25
+25,102494,2027-02-21,,FC Barcelona,,,Levante UD,scheduled,temporada-2026-2027-laliga-ea-sports-fc-barcelona-levante-ud-25,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-25
+25,102495,2027-02-21,,Málaga CF,,,Real Betis,scheduled,temporada-2026-2027-laliga-ea-sports-malaga-cf-real-betis-25,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-25
+25,102496,2027-02-21,,Rayo Vallecano,,,Getafe CF,scheduled,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-getafe-cf-25,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-25
+25,102497,2027-02-21,,Sevilla FC,,,Real Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-sevilla-fc-real-madrid-25,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-25
+25,102498,2027-02-21,,Villarreal CF,,,Valencia CF,scheduled,temporada-2026-2027-laliga-ea-sports-villarreal-cf-valencia-cf-25,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-25
+26,102499,2027-02-28,,Athletic Club,,,FC Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-athletic-club-fc-barcelona-26,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-26
+26,102500,2027-02-28,,Real Betis,,,Villarreal CF,scheduled,temporada-2026-2027-laliga-ea-sports-real-betis-villarreal-cf-26,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-26
+26,102501,2027-02-28,,Celta,,,RCD Espanyol de Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-rc-celta-rcd-espanyol-de-barcelona-26,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-26
+26,102502,2027-02-28,,Getafe CF,,,Deportivo Alavés,scheduled,temporada-2026-2027-laliga-ea-sports-getafe-cf-deportivo-alaves-26,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-26
+26,102503,2027-02-28,,Levante UD,,,RC Deportivo,scheduled,temporada-2026-2027-laliga-ea-sports-levante-ud-rc-deportivo-26,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-26
+26,102504,2027-02-28,,Málaga CF,,,Atlético de Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-malaga-cf-atletico-de-madrid-26,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-26
+26,102505,2027-02-28,,CA Osasuna,,,Sevilla FC,scheduled,temporada-2026-2027-laliga-ea-sports-ca-osasuna-sevilla-fc-26,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-26
+26,102506,2027-02-28,,R. Racing Club,,,Rayo Vallecano,scheduled,temporada-2026-2027-laliga-ea-sports-r-racing-club-rayo-vallecano-26,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-26
+26,102507,2027-02-28,,Real Madrid,,,Valencia CF,scheduled,temporada-2026-2027-laliga-ea-sports-real-madrid-valencia-cf-26,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-26
+26,102508,2027-02-28,,Real Sociedad,,,Elche CF,scheduled,temporada-2026-2027-laliga-ea-sports-real-sociedad-elche-cf-26,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-26
+27,102509,2027-03-07,,Deportivo Alavés,,,Athletic Club,scheduled,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-athletic-club-27,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-27
+27,102510,2027-03-07,,Atlético de Madrid,,,Celta,scheduled,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-rc-celta-27,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-27
+27,102511,2027-03-07,,RC Deportivo,,,Getafe CF,scheduled,temporada-2026-2027-laliga-ea-sports-rc-deportivo-getafe-cf-27,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-27
+27,102512,2027-03-07,,Elche CF,,,Málaga CF,scheduled,temporada-2026-2027-laliga-ea-sports-elche-cf-malaga-cf-27,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-27
+27,102513,2027-03-07,,RCD Espanyol de Barcelona,,,R. Racing Club,scheduled,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-r-racing-club-27,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-27
+27,102514,2027-03-07,,FC Barcelona,,,Real Betis,scheduled,temporada-2026-2027-laliga-ea-sports-fc-barcelona-real-betis-27,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-27
+27,102515,2027-03-07,,Rayo Vallecano,,,CA Osasuna,scheduled,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-ca-osasuna-27,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-27
+27,102516,2027-03-07,,Sevilla FC,,,Real Sociedad,scheduled,temporada-2026-2027-laliga-ea-sports-sevilla-fc-real-sociedad-27,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-27
+27,102517,2027-03-07,,Valencia CF,,,Levante UD,scheduled,temporada-2026-2027-laliga-ea-sports-valencia-cf-levante-ud-27,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-27
+27,102518,2027-03-07,,Villarreal CF,,,Real Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-villarreal-cf-real-madrid-27,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-27
+28,102519,2027-03-14,,Deportivo Alavés,,,Sevilla FC,scheduled,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-sevilla-fc-28,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-28
+28,102520,2027-03-14,,Athletic Club,,,Valencia CF,scheduled,temporada-2026-2027-laliga-ea-sports-athletic-club-valencia-cf-28,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-28
+28,102521,2027-03-14,,Real Betis,,,Levante UD,scheduled,temporada-2026-2027-laliga-ea-sports-real-betis-levante-ud-28,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-28
+28,102522,2027-03-14,,Elche CF,,,Villarreal CF,scheduled,temporada-2026-2027-laliga-ea-sports-elche-cf-villarreal-cf-28,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-28
+28,102523,2027-03-14,,FC Barcelona,,,RC Deportivo,scheduled,temporada-2026-2027-laliga-ea-sports-fc-barcelona-rc-deportivo-28,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-28
+28,102524,2027-03-14,,Getafe CF,,,Real Sociedad,scheduled,temporada-2026-2027-laliga-ea-sports-getafe-cf-real-sociedad-28,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-28
+28,102525,2027-03-14,,Málaga CF,,,Rayo Vallecano,scheduled,temporada-2026-2027-laliga-ea-sports-malaga-cf-rayo-vallecano-28,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-28
+28,102526,2027-03-14,,CA Osasuna,,,Celta,scheduled,temporada-2026-2027-laliga-ea-sports-ca-osasuna-rc-celta-28,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-28
+28,102527,2027-03-14,,R. Racing Club,,,Atlético de Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-r-racing-club-atletico-de-madrid-28,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-28
+28,102528,2027-03-14,,Real Madrid,,,RCD Espanyol de Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-real-madrid-rcd-espanyol-de-barcelona-28,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-28
+29,102529,2027-03-21,,Atlético de Madrid,,,Getafe CF,scheduled,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-getafe-cf-29,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-29
+29,102530,2027-03-21,,Celta,,,Real Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-rc-celta-real-madrid-29,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-29
+29,102531,2027-03-21,,RCD Espanyol de Barcelona,,,Athletic Club,scheduled,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-athletic-club-29,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-29
+29,102532,2027-03-21,,Levante UD,,,CA Osasuna,scheduled,temporada-2026-2027-laliga-ea-sports-levante-ud-ca-osasuna-29,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-29
+29,102533,2027-03-21,,R. Racing Club,,,Real Betis,scheduled,temporada-2026-2027-laliga-ea-sports-r-racing-club-real-betis-29,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-29
+29,102534,2027-03-21,,Rayo Vallecano,,,FC Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-fc-barcelona-29,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-29
+29,102535,2027-03-21,,Real Sociedad,,,Deportivo Alavés,scheduled,temporada-2026-2027-laliga-ea-sports-real-sociedad-deportivo-alaves-29,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-29
+29,102536,2027-03-21,,Sevilla FC,,,Elche CF,scheduled,temporada-2026-2027-laliga-ea-sports-sevilla-fc-elche-cf-29,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-29
+29,102537,2027-03-21,,Valencia CF,,,RC Deportivo,scheduled,temporada-2026-2027-laliga-ea-sports-valencia-cf-rc-deportivo-29,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-29
+29,102538,2027-03-21,,Villarreal CF,,,Málaga CF,scheduled,temporada-2026-2027-laliga-ea-sports-villarreal-cf-malaga-cf-29,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-29
+30,102539,2027-04-04,,Athletic Club,,,R. Racing Club,scheduled,temporada-2026-2027-laliga-ea-sports-athletic-club-r-racing-club-30,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-30
+30,102540,2027-04-04,,Real Betis,,,Celta,scheduled,temporada-2026-2027-laliga-ea-sports-real-betis-rc-celta-30,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-30
+30,102541,2027-04-04,,RC Deportivo,,,Villarreal CF,scheduled,temporada-2026-2027-laliga-ea-sports-rc-deportivo-villarreal-cf-30,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-30
+30,102542,2027-04-04,,Elche CF,,,Deportivo Alavés,scheduled,temporada-2026-2027-laliga-ea-sports-elche-cf-deportivo-alaves-30,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-30
+30,102543,2027-04-04,,FC Barcelona,,,Sevilla FC,scheduled,temporada-2026-2027-laliga-ea-sports-fc-barcelona-sevilla-fc-30,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-30
+30,102544,2027-04-04,,Getafe CF,,,RCD Espanyol de Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-getafe-cf-rcd-espanyol-de-barcelona-30,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-30
+30,102545,2027-04-04,,Levante UD,,,Rayo Vallecano,scheduled,temporada-2026-2027-laliga-ea-sports-levante-ud-rayo-vallecano-30,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-30
+30,102546,2027-04-04,,Málaga CF,,,CA Osasuna,scheduled,temporada-2026-2027-laliga-ea-sports-malaga-cf-ca-osasuna-30,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-30
+30,102547,2027-04-04,,Real Madrid,,,Atlético de Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-real-madrid-atletico-de-madrid-30,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-30
+30,102548,2027-04-04,,Real Sociedad,,,Valencia CF,scheduled,temporada-2026-2027-laliga-ea-sports-real-sociedad-valencia-cf-30,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-30
+31,102549,2027-04-11,,Deportivo Alavés,,,Real Betis,scheduled,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-real-betis-31,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-31
+31,102550,2027-04-11,,Atlético de Madrid,,,Levante UD,scheduled,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-levante-ud-31,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-31
+31,102551,2027-04-11,,Celta,,,Elche CF,scheduled,temporada-2026-2027-laliga-ea-sports-rc-celta-elche-cf-31,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-31
+31,102552,2027-04-11,,RCD Espanyol de Barcelona,,,Málaga CF,scheduled,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-malaga-cf-31,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-31
+31,102553,2027-04-11,,CA Osasuna,,,Real Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-ca-osasuna-real-madrid-31,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-31
+31,102554,2027-04-11,,R. Racing Club,,,FC Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-r-racing-club-fc-barcelona-31,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-31
+31,102555,2027-04-11,,Rayo Vallecano,,,Real Sociedad,scheduled,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-real-sociedad-31,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-31
+31,102556,2027-04-11,,Sevilla FC,,,RC Deportivo,scheduled,temporada-2026-2027-laliga-ea-sports-sevilla-fc-rc-deportivo-31,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-31
+31,102557,2027-04-11,,Valencia CF,,,Getafe CF,scheduled,temporada-2026-2027-laliga-ea-sports-valencia-cf-getafe-cf-31,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-31
+31,102558,2027-04-11,,Villarreal CF,,,Athletic Club,scheduled,temporada-2026-2027-laliga-ea-sports-villarreal-cf-athletic-club-31,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-31
+32,102559,2027-04-18,,Deportivo Alavés,,,Rayo Vallecano,scheduled,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-rayo-vallecano-32,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-32
+32,102560,2027-04-18,,Atlético de Madrid,,,Sevilla FC,scheduled,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-sevilla-fc-32,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-32
+32,102561,2027-04-18,,Real Betis,,,Athletic Club,scheduled,temporada-2026-2027-laliga-ea-sports-real-betis-athletic-club-32,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-32
+32,102562,2027-04-18,,RC Deportivo,,,Celta,scheduled,temporada-2026-2027-laliga-ea-sports-rc-deportivo-rc-celta-32,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-32
+32,102563,2027-04-18,,Elche CF,,,CA Osasuna,scheduled,temporada-2026-2027-laliga-ea-sports-elche-cf-ca-osasuna-32,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-32
+32,102564,2027-04-18,,FC Barcelona,,,RCD Espanyol de Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-fc-barcelona-rcd-espanyol-de-barcelona-32,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-32
+32,102565,2027-04-18,,Getafe CF,,,Real Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-getafe-cf-real-madrid-32,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-32
+32,102566,2027-04-18,,Levante UD,,,Villarreal CF,scheduled,temporada-2026-2027-laliga-ea-sports-levante-ud-villarreal-cf-32,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-32
+32,102567,2027-04-18,,Málaga CF,,,Valencia CF,scheduled,temporada-2026-2027-laliga-ea-sports-malaga-cf-valencia-cf-32,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-32
+32,102568,2027-04-18,,Real Sociedad,,,R. Racing Club,scheduled,temporada-2026-2027-laliga-ea-sports-real-sociedad-r-racing-club-32,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-32
+33,102569,2027-04-21,,Athletic Club,,,RC Deportivo,scheduled,temporada-2026-2027-laliga-ea-sports-athletic-club-rc-deportivo-33,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-33
+33,102570,2027-04-21,,Celta,,,FC Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-rc-celta-fc-barcelona-33,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-33
+33,102571,2027-04-21,,RCD Espanyol de Barcelona,,,Real Sociedad,scheduled,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-real-sociedad-33,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-33
+33,102572,2027-04-21,,Getafe CF,,,Real Betis,scheduled,temporada-2026-2027-laliga-ea-sports-getafe-cf-real-betis-33,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-33
+33,102573,2027-04-21,,CA Osasuna,,,Deportivo Alavés,scheduled,temporada-2026-2027-laliga-ea-sports-ca-osasuna-deportivo-alaves-33,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-33
+33,102574,2027-04-21,,R. Racing Club,,,Málaga CF,scheduled,temporada-2026-2027-laliga-ea-sports-r-racing-club-malaga-cf-33,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-33
+33,102575,2027-04-21,,Real Madrid,,,Elche CF,scheduled,temporada-2026-2027-laliga-ea-sports-real-madrid-elche-cf-33,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-33
+33,102576,2027-04-21,,Sevilla FC,,,Levante UD,scheduled,temporada-2026-2027-laliga-ea-sports-sevilla-fc-levante-ud-33,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-33
+33,102577,2027-04-21,,Valencia CF,,,Rayo Vallecano,scheduled,temporada-2026-2027-laliga-ea-sports-valencia-cf-rayo-vallecano-33,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-33
+33,102578,2027-04-21,,Villarreal CF,,,Atlético de Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-villarreal-cf-atletico-de-madrid-33,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-33
+34,102579,2027-05-02,,Atlético de Madrid,,,Deportivo Alavés,scheduled,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-deportivo-alaves-34,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-34
+34,102580,2027-05-02,,Real Betis,,,Valencia CF,scheduled,temporada-2026-2027-laliga-ea-sports-real-betis-valencia-cf-34,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-34
+34,102581,2027-05-02,,Celta,,,Sevilla FC,scheduled,temporada-2026-2027-laliga-ea-sports-rc-celta-sevilla-fc-34,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-34
+34,102582,2027-05-02,,RC Deportivo,,,R. Racing Club,scheduled,temporada-2026-2027-laliga-ea-sports-rc-deportivo-r-racing-club-34,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-34
+34,102583,2027-05-02,,Elche CF,,,RCD Espanyol de Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-elche-cf-rcd-espanyol-de-barcelona-34,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-34
+34,102584,2027-05-02,,FC Barcelona,,,CA Osasuna,scheduled,temporada-2026-2027-laliga-ea-sports-fc-barcelona-ca-osasuna-34,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-34
+34,102585,2027-05-02,,Levante UD,,,Real Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-levante-ud-real-madrid-34,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-34
+34,102586,2027-05-02,,Málaga CF,,,Getafe CF,scheduled,temporada-2026-2027-laliga-ea-sports-malaga-cf-getafe-cf-34,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-34
+34,102587,2027-05-02,,Rayo Vallecano,,,Villarreal CF,scheduled,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-villarreal-cf-34,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-34
+34,102588,2027-05-02,,Real Sociedad,,,Athletic Club,scheduled,temporada-2026-2027-laliga-ea-sports-real-sociedad-athletic-club-34,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-34
+35,102589,2027-05-09,,Deportivo Alavés,,,Levante UD,scheduled,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-levante-ud-35,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-35
+35,102590,2027-05-09,,Athletic Club,,,Málaga CF,scheduled,temporada-2026-2027-laliga-ea-sports-athletic-club-malaga-cf-35,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-35
+35,102591,2027-05-09,,Real Betis,,,RCD Espanyol de Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-real-betis-rcd-espanyol-de-barcelona-35,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-35
+35,102592,2027-05-09,,Getafe CF,,,Elche CF,scheduled,temporada-2026-2027-laliga-ea-sports-getafe-cf-elche-cf-35,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-35
+35,102593,2027-05-09,,CA Osasuna,,,Real Sociedad,scheduled,temporada-2026-2027-laliga-ea-sports-ca-osasuna-real-sociedad-35,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-35
+35,102594,2027-05-09,,R. Racing Club,,,Sevilla FC,scheduled,temporada-2026-2027-laliga-ea-sports-r-racing-club-sevilla-fc-35,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-35
+35,102595,2027-05-09,,Rayo Vallecano,,,RC Deportivo,scheduled,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-rc-deportivo-35,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-35
+35,102596,2027-05-09,,Real Madrid,,,FC Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-real-madrid-fc-barcelona-35,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-35
+35,102597,2027-05-09,,Valencia CF,,,Atlético de Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-valencia-cf-atletico-de-madrid-35,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-35
+35,102598,2027-05-09,,Villarreal CF,,,Celta,scheduled,temporada-2026-2027-laliga-ea-sports-villarreal-cf-rc-celta-35,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-35
+36,102599,2027-05-16,,Atlético de Madrid,,,Rayo Vallecano,scheduled,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-rayo-vallecano-36,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-36
+36,102600,2027-05-16,,RC Deportivo,,,Deportivo Alavés,scheduled,temporada-2026-2027-laliga-ea-sports-rc-deportivo-deportivo-alaves-36,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-36
+36,102601,2027-05-16,,Elche CF,,,Athletic Club,scheduled,temporada-2026-2027-laliga-ea-sports-elche-cf-athletic-club-36,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-36
+36,102602,2027-05-16,,RCD Espanyol de Barcelona,,,Valencia CF,scheduled,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-valencia-cf-36,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-36
+36,102603,2027-05-16,,Levante UD,,,Getafe CF,scheduled,temporada-2026-2027-laliga-ea-sports-levante-ud-getafe-cf-36,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-36
+36,102604,2027-05-16,,Málaga CF,,,Celta,scheduled,temporada-2026-2027-laliga-ea-sports-malaga-cf-rc-celta-36,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-36
+36,102605,2027-05-16,,CA Osasuna,,,Real Betis,scheduled,temporada-2026-2027-laliga-ea-sports-ca-osasuna-real-betis-36,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-36
+36,102606,2027-05-16,,Real Madrid,,,R. Racing Club,scheduled,temporada-2026-2027-laliga-ea-sports-real-madrid-r-racing-club-36,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-36
+36,102607,2027-05-16,,Real Sociedad,,,FC Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-real-sociedad-fc-barcelona-36,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-36
+36,102608,2027-05-16,,Sevilla FC,,,Villarreal CF,scheduled,temporada-2026-2027-laliga-ea-sports-sevilla-fc-villarreal-cf-36,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-36
+37,102609,2027-05-23,,Deportivo Alavés,,,Real Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-deportivo-alaves-real-madrid-37,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-37
+37,102610,2027-05-23,,Atlético de Madrid,,,Athletic Club,scheduled,temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-athletic-club-37,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-37
+37,102611,2027-05-23,,Celta,,,Real Sociedad,scheduled,temporada-2026-2027-laliga-ea-sports-rc-celta-real-sociedad-37,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-37
+37,102612,2027-05-23,,RC Deportivo,,,RCD Espanyol de Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-rc-deportivo-rcd-espanyol-de-barcelona-37,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-37
+37,102613,2027-05-23,,FC Barcelona,,,Málaga CF,scheduled,temporada-2026-2027-laliga-ea-sports-fc-barcelona-malaga-cf-37,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-37
+37,102614,2027-05-23,,R. Racing Club,,,Levante UD,scheduled,temporada-2026-2027-laliga-ea-sports-r-racing-club-levante-ud-37,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-37
+37,102615,2027-05-23,,Rayo Vallecano,,,Real Betis,scheduled,temporada-2026-2027-laliga-ea-sports-rayo-vallecano-real-betis-37,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-37
+37,102616,2027-05-23,,Sevilla FC,,,Getafe CF,scheduled,temporada-2026-2027-laliga-ea-sports-sevilla-fc-getafe-cf-37,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-37
+37,102617,2027-05-23,,Valencia CF,,,Elche CF,scheduled,temporada-2026-2027-laliga-ea-sports-valencia-cf-elche-cf-37,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-37
+37,102618,2027-05-23,,Villarreal CF,,,CA Osasuna,scheduled,temporada-2026-2027-laliga-ea-sports-villarreal-cf-ca-osasuna-37,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-37
+38,102619,2027-05-30,,Athletic Club,,,Rayo Vallecano,scheduled,temporada-2026-2027-laliga-ea-sports-athletic-club-rayo-vallecano-38,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-38
+38,102620,2027-05-30,,Real Betis,,,Atlético de Madrid,scheduled,temporada-2026-2027-laliga-ea-sports-real-betis-atletico-de-madrid-38,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-38
+38,102621,2027-05-30,,Elche CF,,,R. Racing Club,scheduled,temporada-2026-2027-laliga-ea-sports-elche-cf-r-racing-club-38,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-38
+38,102622,2027-05-30,,RCD Espanyol de Barcelona,,,Deportivo Alavés,scheduled,temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-deportivo-alaves-38,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-38
+38,102623,2027-05-30,,Getafe CF,,,FC Barcelona,scheduled,temporada-2026-2027-laliga-ea-sports-getafe-cf-fc-barcelona-38,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-38
+38,102624,2027-05-30,,Levante UD,,,Celta,scheduled,temporada-2026-2027-laliga-ea-sports-levante-ud-rc-celta-38,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-38
+38,102625,2027-05-30,,Málaga CF,,,Sevilla FC,scheduled,temporada-2026-2027-laliga-ea-sports-malaga-cf-sevilla-fc-38,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-38
+38,102626,2027-05-30,,CA Osasuna,,,Valencia CF,scheduled,temporada-2026-2027-laliga-ea-sports-ca-osasuna-valencia-cf-38,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-38
+38,102627,2027-05-30,,Real Madrid,,,RC Deportivo,scheduled,temporada-2026-2027-laliga-ea-sports-real-madrid-rc-deportivo-38,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-38
+38,102628,2027-05-30,,Real Sociedad,,,Villarreal CF,scheduled,temporada-2026-2027-laliga-ea-sports-real-sociedad-villarreal-cf-38,https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-38
