@@ -1,16 +1,16 @@
 ﻿position,team,played,won,drawn,lost,goals_for,goals_against,goal_difference,points,competition_zone
 1,FC Barcelona,9,9,0,0,39,9,+30,27,Champions League
 2,Atlético de Madrid,9,7,1,1,19,8,+11,22,Champions League
-3,Real Betis,9,6,1,2,16,14,+2,19,Champions League
-4,Real Madrid,8,6,0,2,19,8,+11,18,Champions League
-5,Sevilla FC,8,4,2,2,13,12,+1,14,Champions League
-6,Real Sociedad,8,4,1,3,12,15,-3,13,Europa League
-7,Deportivo Alavés,8,3,2,3,12,8,+4,11,Conference League
-8,RC Deportivo,9,2,5,2,13,12,+1,11,
-9,CA Osasuna,9,3,2,4,10,18,-8,11,
-10,Athletic Club,7,2,3,2,7,6,+1,9,
-11,Villarreal CF,9,2,3,4,13,13,0,9,
-12,Celta,8,1,5,2,8,6,+2,8,
+3,Real Madrid,9,7,0,2,23,9,+14,21,Champions League
+4,Real Betis,9,6,1,2,16,14,+2,19,Champions League
+5,Real Sociedad,9,5,1,3,17,17,0,16,Champions League
+6,Sevilla FC,9,4,2,3,14,16,-2,14,Europa League
+7,Deportivo Alavés,9,3,2,4,13,10,+3,11,Conference League
+8,Celta,9,2,5,2,10,7,+3,11,
+9,RC Deportivo,9,2,5,2,13,12,+1,11,
+10,CA Osasuna,9,3,2,4,10,18,-8,11,
+11,Athletic Club,7,2,3,2,7,6,+1,9,
+12,Villarreal CF,9,2,3,4,13,13,0,9,
 13,RCD Espanyol de Barcelona,9,2,2,5,11,12,-1,8,
 14,Rayo Vallecano,7,2,2,3,11,16,-5,8,
 15,Getafe CF,8,2,2,4,4,10,-6,8,
@@ -18,4 +18,4 @@
 17,Levante UD,8,1,4,3,12,16,-4,7,
 18,Elche CF,9,1,4,4,11,17,-6,7,Descenso
 19,Valencia CF,9,1,3,5,6,15,-9,6,Descenso
-20,Málaga CF,8,0,4,4,4,13,-9,4,Descenso
+20,Málaga CF,9,0,4,5,6,18,-12,4,Descenso
