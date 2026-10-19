@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Recompute LaLiga table from finished official scores and compare two source tables."""
-import csv, json
+import csv, json, os
 from collections import defaultdict, Counter
 from pathlib import Path
 ROOT=Path(__file__).resolve().parent
-CUT='2026-10-19 08:08 America/Sao_Paulo'
+CUT=os.environ.get('LALIGA_CUTOFF','2026-10-19 08:08 America/Sao_Paulo')
 def read(name):
  with (ROOT/name).open(encoding='utf-8-sig',newline='') as f:return list(csv.DictReader(f))
 fixtures=read('laliga_2026_27_matches_official.csv')
@@ -48,6 +48,12 @@ for t in teams:
  diffs=[f for f in fields if int(o[f])!=int(e[f])]
  if int(o['goal_difference'])!=int(e['goal_difference']):diffs.append('goal_difference')
  if diffs:independent_diff.append({'team':t,'fields':diffs,'ESPN':{f:e[f] for f in fields+['goal_difference']},'LALIGA':{f:o[f] for f in fields+['goal_difference']}})
+if independent_diff: raise SystemExit(f'ESPN independently recomputed table differs from LALIGA: {independent_diff}')
+# Independently verify every official final against ESPN FullTime scoreboard events.
+espncheck=read('laliga_2026_27_espn_result_crosscheck.csv')
+final_ids={r['official_match_id'] for r in fixtures if r['status']=='finished'}
+assert len(espncheck)==counts['finished'] and {r['official_match_id'] for r in espncheck}==final_ids
+assert all(r['result_match']=='True' and r['espn_status']=='STATUS_FULL_TIME' for r in espncheck)
 # output the calculated table
 out=[]
 for pos,t in enumerate(computed,1):
