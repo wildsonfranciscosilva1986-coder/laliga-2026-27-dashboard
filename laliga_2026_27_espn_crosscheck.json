@@ -1,12 +1,11 @@
 {
-  "cutoff": "2026-10-19T08:08:11.725194-03:00",
-  "source": "ESPN independent match scoreboard API",
-  "distinct_queried_UTC_dates": 49,
-  "finished_official_fixtures": 87,
-  "ESPN_match_records_available": 87,
-  "matched_results": 87,
+  "source": "ESPN independent soccer scoreboard API",
+  "endpoint": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard",
+  "official_final_scores": 87,
+  "exact_STATUS_FULL_TIME_matches": 87,
+  "missing": [],
   "mismatches": [],
-  "missing_fixtures": [],
-  "independent_table_recomputed_from_ESPN_scores": 20,
-  "note": "Score comparison requires ESPN STATUS_FULL_TIME. Table is independently recomputed from ESPN match events."
+  "queried_scoreboard_urls": 49,
+  "espn_table_recomputed_for_clubs": 20,
+  "result": "PASS"
 }
