@@ -1,0 +1,12 @@
+{
+  "cutoff": "2026-10-19T08:08:11.725194-03:00",
+  "source": "ESPN independent match scoreboard API",
+  "distinct_queried_UTC_dates": 49,
+  "finished_official_fixtures": 87,
+  "ESPN_match_records_available": 87,
+  "matched_results": 87,
+  "mismatches": [],
+  "missing_fixtures": [],
+  "independent_table_recomputed_from_ESPN_scores": 20,
+  "note": "Score comparison requires ESPN STATUS_FULL_TIME. Table is independently recomputed from ESPN match events."
+}
