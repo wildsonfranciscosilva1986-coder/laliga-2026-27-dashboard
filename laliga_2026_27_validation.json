@@ -1,17 +1,12 @@
 {
-  "cutoff": "2026-10-18 10:54 America/Sao_Paulo",
+  "cutoff": "2026-10-19 08:08 America/Sao_Paulo",
   "teams": 20,
   "fixtures": 380,
   "official_matchday_pages": 38,
-  "status_counts": {
-    "finished": 84,
-    "scheduled": 295,
-    "abandoned": 1
-  },
-  "finished_results": 84,
+  "finished_results": 87,
   "officially_abandoned_no_result": 1,
-  "scheduled_or_not_started": 295,
-  "standings_computation": "3 points for win, 1 for draw; compare played, points, W-D-L, GF, GA, GD and position against LALIGA. Exact P/GD/GF ties are checked within the official position group, which may use head-to-head rules.",
+  "scheduled_or_not_started": 292,
+  "standings_computation": "3 points for win, 1 for draw; official table comparison fields: played, points, W-D-L, GF, GA, GD and position. Current table contains no unresolved points/GD/GF tie requiring head-to-head sorting.",
   "official_table_comparison": {
     "clubs_compared": 20,
     "all_stats_and_positions_match": true,
@@ -19,70 +14,10 @@
   },
   "ESPN_independent_table_comparison": {
     "clubs_compared": 20,
-    "club_stat_rows_match": 18,
-    "club_stat_rows_differ": 2,
-    "differences": [
-      {
-        "team": "CA Osasuna",
-        "fields": [
-          "played",
-          "won",
-          "goals_for",
-          "points",
-          "goal_difference"
-        ],
-        "ESPN": {
-          "played": "8",
-          "won": "2",
-          "drawn": "2",
-          "lost": "4",
-          "goals_for": "8",
-          "goals_against": "18",
-          "points": "8",
-          "goal_difference": "-10"
-        },
-        "LALIGA": {
-          "played": "9",
-          "won": "3",
-          "drawn": "2",
-          "lost": "4",
-          "goals_for": "10",
-          "goals_against": "18",
-          "points": "11",
-          "goal_difference": "-8"
-        }
-      },
-      {
-        "team": "R. Racing Club",
-        "fields": [
-          "played",
-          "lost",
-          "goals_against",
-          "goal_difference"
-        ],
-        "ESPN": {
-          "played": "8",
-          "won": "2",
-          "drawn": "2",
-          "lost": "4",
-          "goals_for": "13",
-          "goals_against": "23",
-          "points": "8",
-          "goal_difference": "-10"
-        },
-        "LALIGA": {
-          "played": "9",
-          "won": "2",
-          "drawn": "2",
-          "lost": "5",
-          "goals_for": "13",
-          "goals_against": "25",
-          "points": "8",
-          "goal_difference": "-12"
-        }
-      }
-    ],
-    "explanation": "Differences reflect the captured ESPN standings snapshot; use its match page for any result the table has not incorporated. For this cutoff, ESPN showed Osasuna and Racing at eight played each, while its match page confirmed Osasuna 2–0 Racing. The dashboard uses the post-match table calculated from official LALIGA scores and checked against LALIGA."
+    "club_stat_rows_match": 20,
+    "club_stat_rows_differ": 0,
+    "differences": [],
+    "explanation": "ESPN team table was recomputed independently from STATUS_FULL_TIME match scoreboard events; any remaining row differences are listed explicitly."
   },
   "special_fixtures": [
     {
