@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build the standalone LaLiga 2026/27 static mobile dashboard."""
 from pathlib import Path
-import csv,json
+import csv,json,re
 ROOT=Path(__file__).resolve().parent
 with (ROOT/'laliga_2026_27_matches_official.csv').open(encoding='utf-8-sig',newline='') as f:
     matches=list(csv.DictReader(f))
@@ -96,5 +96,19 @@ const roundFilter=document.getElementById('roundFilter');for(let r=1;r<=38;r++)r
 document.getElementById('teamSelect').addEventListener('change',renderTeam);document.getElementById('homeSelect').addEventListener('change',()=>{if(document.getElementById('homeSelect').value===document.getElementById('awaySelect').value){const opt=[...document.getElementById('awaySelect').options].find(o=>o.value!==document.getElementById('homeSelect').value);if(opt)document.getElementById('awaySelect').value=opt.value}renderMatchup()});document.getElementById('awaySelect').addEventListener('change',renderMatchup);document.getElementById('metricSelect').addEventListener('change',renderTop);document.getElementById('scopeSelect').addEventListener('change',renderTop);
 </script></body></html>'''
 html=html.replace('__DATA__',jsdata)
+# Keep the visible cutoff, final count and independent-source notes synchronized with validation.
+validation=json.loads((ROOT/'laliga_2026_27_validation.json').read_text(encoding='utf-8'))
+cutoff=validation['cutoff']
+datepart,timepart,*_=cutoff.split()
+year,month,day=datepart.split('-')
+months=['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','dez']
+cutoff_label=f'{int(day)} {months[int(month)-1]} {year} · {timepart} BRT'
+finished_count=sum(m['status']=='finished' and m['home_goals']!='' and m['away_goals']!='' for m in matches)
+html=html.replace('Corte: <b>18 out 2026 · 10:54 BRT</b>',f'Corte: <b>{cutoff_label}</b>')
+html=html.replace('84 jogos com resultado final verificado',f'{finished_count} jogos com resultado final verificado')
+html=html.replace('Consultado para o corte de 18/10/2026.',f'Atualizado em {cutoff}.')
+html=html.replace('Snapshot solicitado: 18/10/2026 às 10:54 no fuso America/Sao_Paulo.',f'Corte validado: {cutoff}; somente placares FullTime entram nas estatísticas.')
+html=re.sub(r'<p>Comparada por clube contra os cálculos; 18/20.*?</p>',f'<p>ESPN scoreboard independente: {finished_count}/{finished_count} finais oficiais conferidos como STATUS_FULL_TIME; tabela recomposta dos próprios placares ESPN e comparada com os 20 clubes.</p>',html,flags=re.S)
 (ROOT/'index.html').write_text(html,encoding='utf-8')
+print(f'Built {ROOT/"index.html"} ({len(html):,} bytes), {len(matches)} fixtures, {finished_count} finals, cutoff {cutoff}')
 print('Built',ROOT/'index.html',len(html),'bytes')
