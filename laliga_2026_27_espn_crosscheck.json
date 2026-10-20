@@ -1,11 +1,11 @@
 {
   "source": "ESPN independent soccer scoreboard API",
   "endpoint": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard",
-  "official_final_scores": 87,
-  "exact_STATUS_FULL_TIME_matches": 87,
+  "official_final_scores": 88,
+  "exact_STATUS_FULL_TIME_matches": 88,
   "missing": [],
   "mismatches": [],
-  "queried_scoreboard_urls": 49,
+  "queried_scoreboard_urls": 50,
   "espn_table_recomputed_for_clubs": 20,
   "result": "PASS"
 }
