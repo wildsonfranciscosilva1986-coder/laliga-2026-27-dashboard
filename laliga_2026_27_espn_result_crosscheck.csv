@@ -88,3 +88,12 @@
 102334,9,2026-10-18,Málaga CF,2,2,Real Sociedad,5,5,STATUS_FULL_TIME,True,401882841,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261018
 102336,9,2026-10-18,Real Madrid,4,4,Sevilla FC,1,1,STATUS_FULL_TIME,True,401882839,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261018
 102333,9,2026-10-19,Getafe CF,1,1,Rayo Vallecano,1,1,STATUS_FULL_TIME,True,401882842,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261019
+102339,10,2026-10-23,Deportivo Alavés,1,1,Málaga CF,1,1,STATUS_FULL_TIME,True,401882836,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261023
+102345,10,2026-10-24,Rayo Vallecano,0,0,Elche CF,3,3,STATUS_FULL_TIME,True,401882830,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261024
+102344,10,2026-10-24,R. Racing Club,2,2,RCD Espanyol de Barcelona,1,1,STATUS_FULL_TIME,True,401882831,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261024
+102348,10,2026-10-24,Valencia CF,1,1,Villarreal CF,2,2,STATUS_FULL_TIME,True,401882827,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261024
+102341,10,2026-10-24,Atlético de Madrid,1,1,RC Deportivo,0,0,STATUS_FULL_TIME,True,401882834,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261024
+102340,10,2026-10-25,Athletic Club,4,4,Getafe CF,0,0,STATUS_FULL_TIME,True,401882835,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261025
+102342,10,2026-10-25,Celta,0,0,Real Betis,0,0,STATUS_FULL_TIME,True,401882833,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261025
+102346,10,2026-10-25,Real Sociedad,2,2,Levante UD,1,1,STATUS_FULL_TIME,True,401882829,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261025
+102343,10,2026-10-25,FC Barcelona,1,1,Real Madrid,2,2,STATUS_FULL_TIME,True,401882832,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261025
