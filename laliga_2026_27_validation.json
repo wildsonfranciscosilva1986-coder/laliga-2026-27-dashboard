@@ -1,11 +1,11 @@
 {
-  "cutoff": "2026-10-26 13:04 America/Sao_Paulo",
+  "cutoff": "2026-10-27 12:17 America/Sao_Paulo",
   "teams": 20,
   "fixtures": 380,
   "official_matchday_pages": 38,
-  "finished_results": 98,
+  "finished_results": 99,
   "officially_abandoned_no_result": 1,
-  "scheduled_or_not_started": 281,
+  "scheduled_or_not_started": 280,
   "standings_computation": "3 points for win, 1 for draw; official table comparison fields: played, points, W-D-L, GF, GA, GD and position. Current table contains no unresolved points/GD/GF tie requiring head-to-head sorting.",
   "official_table_comparison": {
     "clubs_compared": 20,

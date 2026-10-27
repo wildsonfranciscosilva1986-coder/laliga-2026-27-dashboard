@@ -87,14 +87,14 @@
     {
       "position": 6,
       "team": "Sevilla FC",
-      "played": 9,
-      "won": 4,
+      "played": 10,
+      "won": 5,
       "drawn": 2,
       "lost": 3,
-      "goals_for": 14,
+      "goals_for": 16,
       "goals_against": 16,
-      "goal_difference": "-2",
-      "points": 14,
+      "goal_difference": "0",
+      "points": 17,
       "competition_zone": "Europa League"
     },
     {
@@ -165,13 +165,13 @@
     {
       "position": 12,
       "team": "CA Osasuna",
-      "played": 9,
+      "played": 10,
       "won": 3,
       "drawn": 2,
-      "lost": 4,
+      "lost": 5,
       "goals_for": 10,
-      "goals_against": 18,
-      "goal_difference": "-8",
+      "goals_against": 20,
+      "goal_difference": "-10",
       "points": 11,
       "competition_zone": ""
     },
