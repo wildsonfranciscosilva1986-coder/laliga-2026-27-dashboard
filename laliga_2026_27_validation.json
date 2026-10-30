@@ -1,11 +1,11 @@
 {
-  "cutoff": "2026-10-29 13:00 America/Sao_Paulo",
+  "cutoff": "2026-10-30 12:49 America/Sao_Paulo",
   "teams": 20,
   "fixtures": 380,
   "official_matchday_pages": 38,
   "finished_results": 99,
-  "officially_abandoned_no_result": 1,
-  "scheduled_or_not_started": 280,
+  "officially_abandoned_no_result": 0,
+  "scheduled_or_not_started": 281,
   "standings_computation": "3 points for win, 1 for draw; official table comparison fields: played, points, W-D-L, GF, GA, GD and position. Current table contains no unresolved points/GD/GF tie requiring head-to-head sorting.",
   "official_table_comparison": {
     "clubs_compared": 20,
@@ -19,14 +19,5 @@
     "differences": [],
     "explanation": "ESPN team table was recomputed independently from STATUS_FULL_TIME match scoreboard events; any remaining row differences are listed explicitly."
   },
-  "special_fixtures": [
-    {
-      "round": "8",
-      "home": "Rayo Vallecano",
-      "away": "Athletic Club",
-      "status": "abandoned",
-      "date": "2026-10-10",
-      "kickoff": "14:00"
-    }
-  ]
+  "special_fixtures": []
 }
