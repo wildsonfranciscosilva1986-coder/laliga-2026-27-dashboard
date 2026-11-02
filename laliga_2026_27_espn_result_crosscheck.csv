@@ -100,3 +100,10 @@
 102347,10,2026-10-26,Sevilla FC,2,2,CA Osasuna,0,0,STATUS_FULL_TIME,True,401882828,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261026
 102358,11,2026-10-30,Villarreal CF,0,0,RCD Espanyol de Barcelona,1,1,STATUS_FULL_TIME,True,401882817,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261030
 102355,11,2026-10-31,Levante UD,0,0,Atlético de Madrid,2,2,STATUS_FULL_TIME,True,401882820,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031
+102357,11,2026-10-31,Rayo Vallecano,3,3,Celta,0,0,STATUS_FULL_TIME,True,401882818,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031
+102350,11,2026-10-31,Real Betis,2,2,Málaga CF,1,1,STATUS_FULL_TIME,True,401882825,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031
+102353,11,2026-10-31,FC Barcelona,6,6,Deportivo Alavés,1,1,STATUS_FULL_TIME,True,401882822,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031
+102354,11,2026-11-01,Getafe CF,3,3,Sevilla FC,1,1,STATUS_FULL_TIME,True,401882821,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261101
+102356,11,2026-11-01,R. Racing Club,0,0,Real Madrid,3,3,STATUS_FULL_TIME,True,401882819,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261101
+102352,11,2026-11-01,Elche CF,0,0,Valencia CF,1,1,STATUS_FULL_TIME,True,401882823,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261101
+102349,11,2026-11-01,Athletic Club,2,2,Real Sociedad,1,1,STATUS_FULL_TIME,True,401882826,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261101
