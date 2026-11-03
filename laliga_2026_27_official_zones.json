@@ -112,6 +112,19 @@
     },
     {
       "position": 8,
+      "team": "RC Deportivo",
+      "played": 11,
+      "won": 3,
+      "drawn": 5,
+      "lost": 3,
+      "goals_for": 15,
+      "goals_against": 14,
+      "goal_difference": "+1",
+      "points": 14,
+      "competition_zone": ""
+    },
+    {
+      "position": 9,
       "team": "Villarreal CF",
       "played": 11,
       "won": 3,
@@ -124,7 +137,7 @@
       "competition_zone": ""
     },
     {
-      "position": 9,
+      "position": 10,
       "team": "Celta",
       "played": 11,
       "won": 2,
@@ -137,7 +150,7 @@
       "competition_zone": ""
     },
     {
-      "position": 10,
+      "position": 11,
       "team": "Deportivo Alavés",
       "played": 11,
       "won": 3,
@@ -150,7 +163,7 @@
       "competition_zone": ""
     },
     {
-      "position": 11,
+      "position": 12,
       "team": "Rayo Vallecano",
       "played": 10,
       "won": 3,
@@ -163,7 +176,7 @@
       "competition_zone": ""
     },
     {
-      "position": 12,
+      "position": 13,
       "team": "Getafe CF",
       "played": 11,
       "won": 3,
@@ -173,19 +186,6 @@
       "goals_against": 16,
       "goal_difference": "-8",
       "points": 12,
-      "competition_zone": ""
-    },
-    {
-      "position": 13,
-      "team": "RC Deportivo",
-      "played": 10,
-      "won": 2,
-      "drawn": 5,
-      "lost": 3,
-      "goals_for": 13,
-      "goals_against": 13,
-      "goal_difference": "0",
-      "points": 11,
       "competition_zone": ""
     },
     {
@@ -204,13 +204,13 @@
     {
       "position": 15,
       "team": "CA Osasuna",
-      "played": 10,
+      "played": 11,
       "won": 3,
       "drawn": 2,
-      "lost": 5,
-      "goals_for": 10,
-      "goals_against": 20,
-      "goal_difference": "-10",
+      "lost": 6,
+      "goals_for": 11,
+      "goals_against": 22,
+      "goal_difference": "-11",
       "points": 11,
       "competition_zone": ""
     },

@@ -107,3 +107,4 @@
 102356,11,2026-11-01,R. Racing Club,0,0,Real Madrid,3,3,STATUS_FULL_TIME,True,401882819,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261101
 102352,11,2026-11-01,Elche CF,0,0,Valencia CF,1,1,STATUS_FULL_TIME,True,401882823,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261101
 102349,11,2026-11-01,Athletic Club,2,2,Real Sociedad,1,1,STATUS_FULL_TIME,True,401882826,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261101
+102351,11,2026-11-02,RC Deportivo,2,2,CA Osasuna,1,1,STATUS_FULL_TIME,True,401882824,https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261102
