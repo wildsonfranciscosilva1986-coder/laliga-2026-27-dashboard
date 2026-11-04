@@ -1,4 +1,4 @@
-LaLiga EA SPORTS 2026/27 validation — cutoff 2026-11-03 13:58 America/Sao_Paulo
+LaLiga EA SPORTS 2026/27 validation — cutoff 2026-11-04 14:04 America/Sao_Paulo
 Fixture coverage: 380/380, 38 matchdays x 10 official LALIGA fixtures; 20 unique clubs; 380 unique official match IDs.
 Statuses: 109 final scores, 0 officially abandoned fixture (score excluded), 271 not started.
 Computed standings compared with official LALIGA standings: 20/20 teams match in played, W-D-L, points, GF, GA, GD, and position.
