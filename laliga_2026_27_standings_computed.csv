@@ -1,21 +1,21 @@
 ﻿position,team,played,won,drawn,lost,goals_for,goals_against,points,goal_difference,competition_zone
-1,FC Barcelona,11,10,0,1,46,12,30,34,Champions League
-2,Atlético de Madrid,11,9,1,1,22,8,28,14,Champions League
-3,Real Madrid,11,9,0,2,28,10,27,18,Champions League
-4,Real Betis,11,7,2,2,18,15,23,3,Champions League
-5,Real Sociedad,11,6,1,4,20,20,19,0,Champions League
-6,Sevilla FC,11,5,2,4,17,19,17,-2,Europa League
-7,Athletic Club,10,4,3,3,14,10,15,4,Conference League
-8,RC Deportivo,11,3,5,3,15,14,14,1,
-9,Villarreal CF,11,3,3,5,15,15,12,0,
-10,Celta,11,2,6,3,10,10,12,0,
-11,Deportivo Alavés,11,3,3,5,15,17,12,-2,
-12,Rayo Vallecano,10,3,3,4,15,20,12,-5,
-13,Getafe CF,11,3,3,5,8,16,12,-8,
-14,RCD Espanyol de Barcelona,11,3,2,6,13,14,11,-1,
-15,CA Osasuna,11,3,2,6,11,22,11,-11,
-16,R. Racing Club,11,3,2,6,15,29,11,-14,
-17,Elche CF,11,2,4,5,14,18,10,-4,
-18,Levante UD,11,2,4,5,16,21,10,-5,Descenso
-19,Valencia CF,11,2,3,6,8,17,9,-9,Descenso
-20,Málaga CF,11,0,5,6,8,21,5,-13,Descenso
+1,FC Barcelona,12,11,0,1,48,13,33,35,Champions League
+2,Real Madrid,12,10,0,2,31,10,30,21,Champions League
+3,Atlético de Madrid,12,9,1,2,23,10,28,13,Champions League
+4,Real Betis,12,8,2,2,20,15,26,5,Champions League
+5,Real Sociedad,12,7,1,4,21,20,22,1,Champions League
+6,Sevilla FC,12,5,3,4,17,19,18,-2,Europa League
+7,Athletic Club,11,4,4,3,15,11,16,4,Conference League
+8,Villarreal CF,12,4,3,5,17,15,15,2,
+9,RC Deportivo,12,3,6,3,15,14,15,1,
+10,R. Racing Club,12,4,2,6,17,30,14,-13,
+11,Celta,12,2,7,3,10,10,13,0,
+12,Deportivo Alavés,12,3,4,5,15,17,13,-2,
+13,RCD Espanyol de Barcelona,12,3,3,6,13,14,12,-1,
+14,Rayo Vallecano,11,3,3,5,15,21,12,-6,
+15,Getafe CF,12,3,3,6,8,18,12,-10,
+16,CA Osasuna,12,3,3,6,12,23,12,-11,
+17,Levante UD,12,2,5,5,16,21,11,-5,
+18,Elche CF,12,2,4,6,14,20,10,-6,Descenso
+19,Valencia CF,12,2,3,7,8,20,9,-12,Descenso
+20,Málaga CF,12,0,5,7,9,23,5,-14,Descenso
